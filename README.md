@@ -22,8 +22,8 @@ Pros & Cons of customer specific and global models
 
 <br>
 
-## **Resume**
-[Click here](./images/Resume.pdf)
+<!-- ## **Resume**
+[Click here](./images/Resume.pdf) -->
 
 ## **Social Media Links:**
 [LinkedIn](https://www.linkedin.com/in/elutins/)<br>
