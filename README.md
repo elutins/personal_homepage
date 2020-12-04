@@ -1,10 +1,6 @@
 # **Homepage for Personal Publications and Projects**
-<img alt="avatar" width="50" height="50" src="https://github.com/elutins/personal_homepage/blob/main/files/avatar.jpeg"/>
 
-
-This repository serves as the homepage for my noteable Data Science work, including articles and personal projects
-
-Enjoy 🚀
+This repository serves as the homepage for my noteable Data Science work, including articles and personal projects 🚀
 
 
 ## **Articles and Publications:**
@@ -35,3 +31,6 @@ Pros & Cons of customer specific and global models
 [LinkedIn](https://www.linkedin.com/in/elutins/)<br>
 [Github](https://github.com/elutins)<br>
 [Medium](https://elutins.medium.com)
+
+<br>
+<img alt="avatar" width="100" height="100" src="https://github.com/elutins/personal_homepage/blob/main/files/avatar.jpeg"/>
