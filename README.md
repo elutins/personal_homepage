@@ -22,7 +22,6 @@ Pros & Cons of customer specific and global models
 
 [Predicting Terrorism with Bayesia Inference](https://github.com/elutins/Predicting-Terrorism)
 
-<br>
 
 ## **Resume**
 [Click here](https://github.com/elutins/personal_homepage/blob/main/files/Resume.pdf)
@@ -33,4 +32,4 @@ Pros & Cons of customer specific and global models
 [Medium](https://elutins.medium.com)
 
 <br>
-<img alt="avatar" width="100" height="100" src="https://github.com/elutins/personal_homepage/blob/main/files/avatar.jpeg"/>
+<img alt="avatar" width="150" height="150" src="https://github.com/elutins/personal_homepage/blob/main/files/avatar.jpeg"/>
