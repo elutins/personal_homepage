@@ -1,4 +1,5 @@
-# **Homepage for Personal Publications and Projects        <img alt="avatar" width="85" height="85" src="https://github.com/elutins/personal_homepage/blob/main/files/avatar.jpeg">**
+# **Homepage for Personal Publications and Projects**
+<img alt="avatar" width="50" height="50" src="https://github.com/elutins/personal_homepage/blob/main/files/avatar.jpeg"/>
 
 
 This repository serves as the homepage for my noteable Data Science work, including articles and personal projects
