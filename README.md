@@ -1,4 +1,4 @@
-# **Homepage for Personal Publications and Projects**
+<img src="./images/bigmood.jpeg" alt="avatar" width="15" height="15"> # **Homepage for Personal Publications and Projects**
 
 This repository serves as the homepage for my noteable Data Science work, including articles and personal projects
 
