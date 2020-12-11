@@ -14,6 +14,8 @@ This repository serves as the homepage for my noteable Data Science work, includ
 [Tailoring Data Models to Client Demands and Behavior](https://insights.pinpoint.com/tailoring-data-models-client-demands-and-behavior): 
 Pros & Cons of customer specific and global models
 
+[Ensemble Methods in Machine Learning: What are they and Why Use Them](https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f#5bb4): Focusing on tree-based models to highlight the use cases of ensemle methods
+
 
 ## **Personal Projects**
 [Predicting MLB Gambling Scenarios](https://github.com/elutins/Predicting-MLB-Gambling-Scenarios)
