@@ -3,6 +3,13 @@
 This repository serves as the homepage for my noteable Data Science work, including articles and personal projects 🚀
 
 
+## Highlights
+
+[Deploying Flask App within Azure Cloud and using GitHub Actions for CI/CD](https://github.com/elutins/flask-ml-cloud-serverless-demo/tree/main)
+
+[How Realtor.com Adopted In-house Feature Drift Tooling Built on Open Source](https://techblog.realtor.com/how-realtor-com-adopted-in-house-feature-drift-tooling-built-on-open-source/): The motivation behind creating a drift detection pipeline for ML models, as well as the python code needed to deploy a drift pipeline with [Evidently](https://www.evidentlyai.com/) and [Metaflow](https://docs.metaflow.org/).
+
+
 ## **Articles and Publications:**
 
 [DBSCAN: What is it? When to use it? How to use it](https://elutins.medium.com/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818): Deep dive into DBSCAN algorithm with sample code and use case from Netflix
@@ -14,6 +21,7 @@ Pros & Cons of customer specific and global models
 
 
 ## **Personal Projects**
+
 [Predicting MLB Gambling Scenarios](https://github.com/elutins/Predicting-MLB-Gambling-Scenarios)
 
 [Web Scraping & NLP Modeling](https://github.com/elutins/NLP-Indeed-Web-Scraper)
@@ -23,7 +31,6 @@ Pros & Cons of customer specific and global models
 
 ## **Social Media Links**
 [LinkedIn](https://www.linkedin.com/in/elutins/)<br>
-[Github](https://github.com/elutins)<br>
 [Medium](https://elutins.medium.com)
 
 <br>
