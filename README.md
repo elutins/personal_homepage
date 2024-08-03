@@ -1,6 +1,6 @@
 # **Homepage for Personal Publications and Projects**
 
-This repository serves as the homepage for my noteable Data Science work, including articles and personal projects 🚀
+This repository serves as the homepage for my noteable Data Science and Machine Learning work, including articles and personal projects 🚀
 
 
 ## Highlights
